@@ -5,9 +5,11 @@
 ### Customer Workstations:
 - Ubuntu Desktop
 - Linux Mint
+- CentOS
 
 ### Servers:
-- CentOS / Ubuntu Server
+- CentOS
+- Ubuntu Server
 - Other (As Required)
 
 ## INTERNAL APPLICATIONS
@@ -60,6 +62,9 @@
 - https://www.sugarcrm.com/
 - https://suitecrm.com/
 - https://www.odoo.com/page/community
+
+### HRM:
+- http://www.orangehrm.com/OpenSource
 
 ### Phone Systems:
 - https://www.freepbx.org/
