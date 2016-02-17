@@ -20,7 +20,7 @@
 - http://www.tightvnc.com/
 - http://tigervnc.org/
 
-### Chat/Messagine:
+### Chat/Messaging:
 - https://rocket.chat/
 - http://www.mattermost.org/
 - https://telegram.org/
@@ -29,6 +29,7 @@
 
 ### Email:
 - https://www.mozilla.org/en-US/thunderbird/
+- http://www.claws-mail.org/
 
 ### Office:
 - https://www.libreoffice.org/
@@ -97,3 +98,6 @@
 ### Quickbooks:
 - http://www.turbocashuk.com/
 - http://www.gnucash.org/
+
+## OTHER LINK AGGREGATES
+- https://github.com/kahun/awesome-sysadmin
