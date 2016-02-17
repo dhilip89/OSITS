@@ -16,9 +16,16 @@
 
 ### ScreenConnect/LogMeIn:
 - http://guac-dev.org/
+- http://www.teamviewer.com/en-us/
+- http://www.tightvnc.com/
+- http://tigervnc.org/
 
 ### Lync:
 - https://rocket.chat/
+- http://www.mattermost.org/
+- https://telegram.org/
+- https://matrix.org/
+- https://ricochet.im/
 
 ### Outlook:
 - https://www.mozilla.org/en-US/thunderbird/
@@ -68,6 +75,13 @@
 
 ### Phone Systems:
 - https://www.freepbx.org/
+
+### Web Hosting:
+- http://ajenti.org/
+- http://www.webmin.com/
+- https://www.virtualmin.com/
+- http://vestacp.com/
+- http://centos-webpanel.com/
 
 ## CUSTOMER APPLICATIONS
 
