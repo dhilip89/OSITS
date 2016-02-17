@@ -83,6 +83,11 @@
 - http://vestacp.com/
 - http://centos-webpanel.com/
 
+### Password Management:
+- http://keepass.info/
+- https://www.keepassx.org/
+- https://pwsafe.org/
+
 ## CUSTOMER APPLICATIONS
 
 ### Autocad:
