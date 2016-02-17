@@ -20,20 +20,20 @@
 - http://www.tightvnc.com/
 - http://tigervnc.org/
 
-### Lync:
+### Chat/Messagine:
 - https://rocket.chat/
 - http://www.mattermost.org/
 - https://telegram.org/
 - https://matrix.org/
 - https://ricochet.im/
 
-### Outlook:
+### Email:
 - https://www.mozilla.org/en-US/thunderbird/
 
 ### Office:
 - https://www.libreoffice.org/
 
-### Sharepoint:
+### Document Storage:
 - https://www.alfresco.com/why-alfresco
 - http://www.liferay.com/products/liferay-social-office
 
