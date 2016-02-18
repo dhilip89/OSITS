@@ -42,7 +42,7 @@
 ### File Sharing/Syncing:
 - https://syncthing.net/
 
-### vCenter/ESXI:
+### Virtualization
 - https://www.proxmox.com/en/
 - http://www.linux-kvm.org/page/Main_Page
 - http://www.xenproject.org/
@@ -94,13 +94,15 @@
 - https://www.softether.org/
 - https://github.com/apenwarr/sshuttle
 
-## DevOps:
-- https://www.chef.io/chef/
-- https://puppetlabs.com/
-- https://www.ansible.com/
-- http://saltstack.com/
-- https://www.vagrantup.com/
-- https://www.terraform.io/
+## DevOps
+- Configuration Manegement
+  - https://www.chef.io/chef/
+  - https://puppetlabs.com/
+  - https://www.ansible.com/
+  - http://saltstack.com/
+- Scripted Virtualization
+  - https://www.vagrantup.com/
+  - https://www.terraform.io/
 
 ## CUSTOMER APPLICATIONS
 
