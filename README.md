@@ -86,6 +86,7 @@
 - http://centos-webpanel.com/
 
 ### Password Management:
+- https://www.vaultier.org/
 - http://keepass.info/
 - https://www.keepassx.org/
 - https://pwsafe.org/
@@ -94,7 +95,12 @@
 - https://www.softether.org/
 - https://github.com/apenwarr/sshuttle
 
-### DevOps
+### Proxies:
+- http://www.squid-cache.org/
+- https://portswigger.net/burp/
+- https://swiperproxy.github.io/
+
+### DevOps:
 - Configuration Manegement
   - https://www.chef.io/chef/
   - https://puppetlabs.com/
