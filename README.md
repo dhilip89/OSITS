@@ -94,6 +94,14 @@
 - https://www.softether.org/
 - https://github.com/apenwarr/sshuttle
 
+## DevOps:
+- https://www.chef.io/chef/
+- https://puppetlabs.com/
+- https://www.ansible.com/
+- http://saltstack.com/
+- https://www.vagrantup.com/
+- https://www.terraform.io/
+
 ## CUSTOMER APPLICATIONS
 
 ### Autocad:
@@ -103,14 +111,6 @@
 ### Quickbooks:
 - http://www.turbocashuk.com/
 - http://www.gnucash.org/
-
-## DevOps:
-- https://www.chef.io/chef/
-- https://puppetlabs.com/
-- https://www.ansible.com/
-- http://saltstack.com/
-- https://www.vagrantup.com/
-- https://www.terraform.io/
 
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
