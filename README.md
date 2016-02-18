@@ -30,6 +30,7 @@
 ### Email:
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
+- https://roundcube.net/
 
 ### Office:
 - https://www.libreoffice.org/
@@ -89,6 +90,10 @@
 - https://www.keepassx.org/
 - https://pwsafe.org/
 
+### VPN:
+- https://www.softether.org/
+- https://github.com/apenwarr/sshuttle
+
 ## CUSTOMER APPLICATIONS
 
 ### Autocad:
@@ -98,6 +103,14 @@
 ### Quickbooks:
 - http://www.turbocashuk.com/
 - http://www.gnucash.org/
+
+## DevOps:
+- https://www.chef.io/chef/
+- https://puppetlabs.com/
+- https://www.ansible.com/
+- http://saltstack.com/
+- https://www.vagrantup.com/
+- https://www.terraform.io/
 
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
