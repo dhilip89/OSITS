@@ -1,5 +1,6 @@
 # OPEN SOURCE IT SOLUTIONS
 
+---
 ## OPERATING SYSTEMS
 
 ### Customer Workstations:
@@ -12,6 +13,7 @@
 - Ubuntu Server
 - Other (As Required)
 
+---
 ## INTERNAL APPLICATIONS
 
 ### ScreenConnect/LogMeIn:
@@ -110,6 +112,7 @@
   - https://www.vagrantup.com/
   - https://www.terraform.io/
 
+---
 ## CUSTOMER APPLICATIONS
 
 ### Autocad:
@@ -120,5 +123,8 @@
 - http://www.turbocashuk.com/
 - http://www.gnucash.org/
 
+---
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
+
+---
