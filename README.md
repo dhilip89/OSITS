@@ -53,13 +53,14 @@
 - http://osticket.com/
 - http://www.otrs.com/software/open-source/
 
-### Service Monitoring:
+### Service Monitoring / Logging:
 - https://www.adremsoft.com/netcrunch/ 
 - http://www.cacti.net/ 
 - http://www.librenms.org/
 - https://www.nagios.org/ 
 - https://www.paessler.com/prtg
 - https://www.elastic.co/products (ELK)
+- https://www.graylog.org/
 
 ### Routing/Networking:
 - https://www.pfsense.org/
