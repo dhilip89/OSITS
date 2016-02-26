@@ -81,12 +81,21 @@
 ### Phone Systems:
 - https://www.freepbx.org/
 
+### Web Servers
+- https://www.nginx.com/
+- https://httpd.apache.org/
+
 ### Web Hosting:
 - http://ajenti.org/
 - http://www.webmin.com/
 - https://www.virtualmin.com/
 - http://vestacp.com/
 - http://centos-webpanel.com/
+
+### Project/Task Management:
+- https://taiga.io/
+- https://wekan.io/
+- http://kanboard.net/
 
 ### Password Management:
 - https://www.vaultier.org/
@@ -104,7 +113,7 @@
 - https://swiperproxy.github.io/
 
 ### DevOps:
-- Configuration Manegement
+- Configuration Management
   - https://www.chef.io/chef/
   - https://puppetlabs.com/
   - https://www.ansible.com/
