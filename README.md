@@ -33,9 +33,24 @@
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
 - https://roundcube.net/
+- https://www.mailpile.is/
 
-### Office:
+### Text Editors / IDEs
+- https://atom.io/
+- http://brackets.io/
+- https://notepad-plus-plus.org/
+- http://komodoide.com/komodo-edit/
+- http://codiad.com/
+
+### Office Suite:
 - https://www.libreoffice.org/
+- https://www.calligra.org/get-calligra/
+
+### Collaborative Editing
+- http://etherpad.org/
+
+### Graphics Editing
+- https://www.gimp.org/
 
 ### Document Storage:
 - https://www.alfresco.com/why-alfresco
@@ -43,6 +58,7 @@
 
 ### File Sharing/Syncing:
 - https://syncthing.net/
+- https://owncloud.org/
 
 ### Virtualization
 - https://www.proxmox.com/en/
@@ -136,5 +152,6 @@
 ---
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
+- https://github.com/Kickball/awesome-selfhosted
 
 ---
