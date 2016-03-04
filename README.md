@@ -70,6 +70,7 @@
 - http://www.otrs.com/software/open-source/
 
 ### Service Monitoring / Logging:
+- https://www.consul.io/
 - https://www.adremsoft.com/netcrunch/ 
 - http://www.cacti.net/ 
 - http://www.librenms.org/
@@ -116,6 +117,7 @@
 
 ### Password Management:
 - https://www.vaultier.org/
+- https://www.vaultproject.io
 - http://keepass.info/
 - https://www.keepassx.org/
 - https://pwsafe.org/
