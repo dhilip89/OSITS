@@ -103,9 +103,10 @@
 
 ### Web Hosting:
 - http://ajenti.org/
-- http://www.webmin.com/
+- https://github.com/webmin/webmin
 - https://www.virtualmin.com/
-- http://vestacp.com/
+- https://github.com/serghey-rodin/vesta
+- https://serverpilot.io/
 - http://centos-webpanel.com/
 
 ### Project/Task Management:
