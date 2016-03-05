@@ -156,5 +156,5 @@
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/Kickball/awesome-selfhosted
-
+- https://github.com/httpsGithubParty/FOSS-for-Dev
 ---
