@@ -1,6 +1,5 @@
 # OPEN SOURCE IT SOLUTIONS
 
----
 ## OPERATING SYSTEMS
 
 ### Customer Workstations:
@@ -13,7 +12,6 @@
 - Ubuntu Server
 - Other (As Required)
 
----
 ## INTERNAL APPLICATIONS
 
 ### ScreenConnect/LogMeIn:
@@ -91,12 +89,13 @@
 - https://www.sugarcrm.com/
 - https://suitecrm.com/
 - https://www.odoo.com/page/community
-ta
+
 ### HRM:
 - http://www.orangehrm.com/OpenSource
 
 ### Phone Systems:
 - https://www.freepbx.org/
+- http://www.asterisk.org/
 
 ### Web Servers
 - https://www.nginx.com/
@@ -142,18 +141,6 @@ ta
   - https://www.vagrantup.com/
   - https://www.terraform.io/
 
----
-## CUSTOMER APPLICATIONS
-
-### Autocad:
-- http://www.sketchup.com/
-- http://www.openscad.org/
-
-### Quickbooks:
-- http://www.turbocashuk.com/
-- http://www.gnucash.org/
-
----
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/Kickball/awesome-selfhosted
