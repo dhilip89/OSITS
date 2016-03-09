@@ -20,7 +20,7 @@
 - http://www.tightvnc.com/
 - http://tigervnc.org/
 
-### Chat/Messaging:
+### Chat / Messaging:
 - https://rocket.chat/
 - http://www.mattermost.org/
 - https://telegram.org/
@@ -54,7 +54,7 @@
 - https://www.alfresco.com/why-alfresco
 - http://www.liferay.com/products/liferay-social-office
 
-### File Sharing/Syncing:
+### File Sharing / Syncing:
 - https://syncthing.net/
 - https://owncloud.org/
 
