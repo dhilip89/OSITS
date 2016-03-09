@@ -14,7 +14,7 @@
 
 ## INTERNAL APPLICATIONS
 
-### ScreenConnect/LogMeIn:
+### Remote Support:
 - http://guac-dev.org/
 - http://www.teamviewer.com/en-us/
 - http://www.tightvnc.com/
@@ -114,6 +114,10 @@
 - https://wekan.io/
 - http://kanboard.net/
 - http://phabricator.org/
+- http://www.orangescrum.org/
+- https://www.openproject.org/open-source/download/
+- http://www.agilefant.com/open-source/
+- https://waffle.io/
 
 ### Password Management:
 - https://www.vaultier.org/
