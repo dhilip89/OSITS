@@ -149,3 +149,4 @@
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/Kickball/awesome-selfhosted
 - https://github.com/httpsGithubParty/FOSS-for-Dev
+- https://github.com/showcases/software-development-tools
