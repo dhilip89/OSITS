@@ -76,7 +76,6 @@
 - https://www.paessler.com/prtg
 - https://www.elastic.co/products (ELK)
 - https://www.graylog.org/
-- https://www.consul.io/
 
 ### Routing/Networking:
 - https://www.pfsense.org/
@@ -142,6 +141,7 @@
   - https://puppetlabs.com/
   - https://www.ansible.com/
   - http://saltstack.com/
+  - http://theforeman.org/
 - Scripted Virtualization
   - https://www.vagrantup.com/
   - https://www.terraform.io/
