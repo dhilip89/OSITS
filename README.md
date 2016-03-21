@@ -2,32 +2,32 @@
 
 ## OPERATING SYSTEMS
 
-### Customer Workstations:
+### Customer Workstations
 - Ubuntu Desktop
 - Linux Mint
 - CentOS
 
-### Servers:
+### Servers
 - CentOS
 - Ubuntu Server
 - Other (As Required)
 
 ## INTERNAL APPLICATIONS
 
-### Remote Support:
+### Remote Support
 - http://guac-dev.org/
 - http://www.teamviewer.com/en-us/
 - http://www.tightvnc.com/
 - http://tigervnc.org/
 
-### Chat / Messaging:
+### Chat / Messaging
 - https://rocket.chat/
 - http://www.mattermost.org/
 - https://telegram.org/
 - https://matrix.org/
 - https://ricochet.im/
 
-### Email:
+### Email
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
 - https://roundcube.net/
@@ -40,7 +40,7 @@
 - http://komodoide.com/komodo-edit/
 - http://codiad.com/
 
-### Office Suite:
+### Office Suite
 - https://www.libreoffice.org/
 - https://www.calligra.org/get-calligra/
 
@@ -50,9 +50,19 @@
 ### Graphics Editing
 - https://www.gimp.org/
 
-### Document Storage:
+### Document Storage
 - https://www.alfresco.com/why-alfresco
 - http://www.liferay.com/products/liferay-social-office
+
+### Wiki
+- https://github.com/Jermolene/TiddlyWiki5
+- https://github.com/splitbrain/dokuwiki
+- https://github.com/foswiki/distro
+
+### CMSs
+- https://bolt.cm/
+- https://getgrav.org/
+- http://www.django-cms.org/en/
 
 ### File Sharing / Syncing:
 - https://syncthing.net/
@@ -63,11 +73,14 @@
 - http://www.linux-kvm.org/page/Main_Page
 - http://www.xenproject.org/
 
-### Ticketing:
+### Ticketing
 - http://osticket.com/
+- http://www.spiceworks.com/free-help-desk-software/
 - http://www.otrs.com/software/open-source/
+- https://bestpractical.com/rt-and-rtir
 
-### Service Monitoring / Logging:
+### Service Monitoring / Logging
+- http://www.spiceworks.com/free-network-monitoring-management-software/
 - https://www.consul.io/
 - https://www.adremsoft.com/netcrunch/ 
 - http://www.cacti.net/ 
@@ -81,23 +94,27 @@
 - https://github.com/Seldaek/monolog
 - https://github.com/arachnys/cabot
 
-### Routing/Networking:
+### Routing/Networking
 - https://www.pfsense.org/
 
-### Storage:
+### Storage
 - http://rockstor.com/ 
 - https://www.openfiler.com/products
 - http://www.freenas.org/ 
 
-### CRM:
+### CRM
 - https://www.sugarcrm.com/
 - https://suitecrm.com/
 - https://www.odoo.com/page/community
 
-### HRM:
+### HRM
 - http://www.orangehrm.com/OpenSource
 
-### Phone Systems:
+### Asset/Inventory Management
+- http://www.spiceworks.com/free-pc-network-inventory-software/
+- http://www.cmdbuild.org/en/prodotti/cmdbuild
+
+### Phone Systems
 - https://www.freepbx.org/
 - http://www.asterisk.org/
 
@@ -105,7 +122,7 @@
 - https://www.nginx.com/
 - https://httpd.apache.org/
 
-### Web Hosting:
+### Web Hosting
 - http://ajenti.org/
 - https://github.com/webmin/webmin
 - https://www.virtualmin.com/
@@ -113,7 +130,7 @@
 - https://serverpilot.io/
 - http://centos-webpanel.com/
 
-### Project/Task Management:
+### Project/Task Management
 - https://taiga.io/
 - https://wekan.io/
 - http://kanboard.net/
@@ -123,23 +140,23 @@
 - http://www.agilefant.com/open-source/
 - https://waffle.io/
 
-### Password Management:
+### Password Management
 - https://www.vaultier.org/
 - https://www.vaultproject.io
 - http://keepass.info/
 - https://www.keepassx.org/
 - https://pwsafe.org/
 
-### VPN:
+### VPN
 - https://www.softether.org/
 - https://github.com/apenwarr/sshuttle
 
-### Proxies:
+### Proxies
 - http://www.squid-cache.org/
 - https://portswigger.net/burp/
 - https://swiperproxy.github.io/
 
-### DevOps:
+### DevOps
 - Configuration Management
   - https://www.chef.io/chef/
   - https://puppetlabs.com/
