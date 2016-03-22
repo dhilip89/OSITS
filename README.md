@@ -85,7 +85,7 @@
 - https://www.adremsoft.com/netcrunch/ 
 - http://www.cacti.net/ 
 - http://www.librenms.org/
-- https://www.nagios.org/ 
+- https://www.nagios.org/projects/
 - https://www.paessler.com/prtg
 - https://www.elastic.co/products (ELK)
 - https://www.graylog.org/
@@ -93,6 +93,9 @@
 - https://github.com/winstonjs/winston
 - https://github.com/Seldaek/monolog
 - https://github.com/arachnys/cabot
+- https://github.com/graphite-project/graphite-web
+- https://github.com/elastic/beats
+- https://github.com/prometheus/prometheus
 
 ### Routing/Networking
 - https://www.pfsense.org/
@@ -129,6 +132,8 @@
 - https://github.com/serghey-rodin/vesta
 - https://serverpilot.io/
 - http://centos-webpanel.com/
+- https://sandstorm.io/
+- https://arkos.io/
 
 ### Project/Task Management
 - https://taiga.io/
