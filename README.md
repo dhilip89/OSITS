@@ -26,6 +26,8 @@
 - https://telegram.org/
 - https://matrix.org/
 - https://ricochet.im/
+- https://github.com/irungentoo/toxcore
+- https://github.com/zulip/zulip
 
 ### Email
 - https://www.mozilla.org/en-US/thunderbird/
