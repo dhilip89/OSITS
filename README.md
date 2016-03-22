@@ -167,6 +167,14 @@
   - https://www.vagrantup.com/
   - https://www.terraform.io/
 
+### Continuous Integration
+- https://github.com/drone/drone
+- https://github.com/Strider-CD/strider
+- https://github.com/buildbot/buildbot
+- https://about.gitlab.com/gitlab-ci/
+- https://github.com/jenkinsci/jenkins
+- https://travis-ci.org/
+
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
 - https://github.com/Kickball/awesome-selfhosted
