@@ -136,9 +136,14 @@
 - http://kanboard.net/
 - http://phabricator.org/
 - http://www.orangescrum.org/
-- https://www.openproject.org/open-source/download/
+- https://www.openproject.org/open-source/
 - http://www.agilefant.com/open-source/
 - https://waffle.io/
+- https://www.tuleap.org/
+- https://github.com/odoo/odoo
+- https://community.mycollab.com/
+- http://restya.com/board/
+- http://www.libreplan.com/home/
 
 ### Password Management
 - https://www.vaultier.org/
