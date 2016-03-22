@@ -45,16 +45,32 @@
 ### Office Suite
 - https://www.libreoffice.org/
 - https://www.calligra.org/get-calligra/
+- http://onlyoffice.org/
+- http://www.fengoffice.com/web/opensource/
 
 ### Collaborative Editing
 - http://etherpad.org/
 
 ### Graphics Editing
 - https://www.gimp.org/
+- https://inkscape.org/en/
+
+### Accounting
+- https://github.com/InvoicePlane/InvoicePlane
+- https://github.com/invoiceninja/invoiceninja
+- https://github.com/dotledger/dotledger
+- http://www.manager.io/
+- https://www.gnucash.org/
+- http://ledgersmb.org/
+- http://webzash.org/
+- http://homebank.free.fr/
+- https://www.waveapps.com/pricing/
 
 ### Document Storage
 - https://www.alfresco.com/why-alfresco
 - http://www.liferay.com/products/liferay-social-office
+- http://www.openkm.com/en/community.html
+- https://github.com/humhub/humhub
 
 ### Wiki
 - https://github.com/Jermolene/TiddlyWiki5
@@ -111,9 +127,13 @@
 - https://www.sugarcrm.com/
 - https://suitecrm.com/
 - https://www.odoo.com/page/community
+- http://zurmo.org/download
+- https://suitecrm.com/download
 
 ### HRM
 - http://www.orangehrm.com/OpenSource
+- http://www.sentrifugo.com/
+- https://github.com/gamonoid/icehrm/
 
 ### Asset/Inventory Management
 - http://www.spiceworks.com/free-pc-network-inventory-software/
