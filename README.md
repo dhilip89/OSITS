@@ -174,6 +174,7 @@
 - https://about.gitlab.com/gitlab-ci/
 - https://github.com/jenkinsci/jenkins
 - https://travis-ci.org/
+- https://github.com/gocd/gocd/
 
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
