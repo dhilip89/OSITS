@@ -142,6 +142,10 @@
 ### Phone Systems
 - https://www.freepbx.org/
 - http://www.asterisk.org/
+- http://www.elastix.com/en/downloads/
+- https://github.com/kamailio/kamailio
+- https://github.com/OpenSIPS/opensips
+- http://www.linphone.org/
 
 ### Web Servers
 - https://www.nginx.com/
