@@ -28,6 +28,13 @@
 - https://ricochet.im/
 - https://github.com/irungentoo/toxcore
 - https://github.com/zulip/zulip
+- https://tox.chat/
+- http://www.viber.com/en/
+- http://www.wechat.com/en/
+- https://icq.com/mac/en
+- http://line.me/en-US/
+- https://jitsi.org/
+- http://www.pidgin.im/
 
 ### Email
 - https://www.mozilla.org/en-US/thunderbird/
