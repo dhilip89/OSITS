@@ -62,6 +62,8 @@
 ### Graphics Editing
 - https://www.gimp.org/
 - https://inkscape.org/en/
+- https://vectr.com/
+- https://pixlr.com/
 
 ### Accounting
 - https://github.com/InvoicePlane/InvoicePlane
