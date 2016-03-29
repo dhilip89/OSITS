@@ -225,3 +225,4 @@
 - https://github.com/Kickball/awesome-selfhosted
 - https://github.com/httpsGithubParty/FOSS-for-Dev
 - https://github.com/showcases/software-development-tools
+- https://github.com/ripienaar/free-for-dev
