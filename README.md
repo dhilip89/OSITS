@@ -37,6 +37,7 @@
 - http://www.pidgin.im/
 
 ### Email
+- https://nylas.com/N1
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
 - https://roundcube.net/
