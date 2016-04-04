@@ -42,6 +42,7 @@
 - http://www.claws-mail.org/
 - https://roundcube.net/
 - https://www.mailpile.is/
+- - http://www.gnu.org/software/mailman/index.html
 
 ### Text Editors / IDEs
 - https://atom.io/
