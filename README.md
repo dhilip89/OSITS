@@ -26,7 +26,6 @@
 - https://telegram.org/
 - https://matrix.org/
 - https://ricochet.im/
-- https://github.com/irungentoo/toxcore
 - https://github.com/zulip/zulip
 - https://tox.chat/
 - http://www.viber.com/en/
