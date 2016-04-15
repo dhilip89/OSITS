@@ -138,7 +138,6 @@
 - https://suitecrm.com/
 - https://www.odoo.com/page/community
 - http://zurmo.org/download
-- https://suitecrm.com/download
 
 ### HRM
 - http://www.orangehrm.com/OpenSource
