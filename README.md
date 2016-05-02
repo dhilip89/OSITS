@@ -41,10 +41,14 @@
 - http://www.claws-mail.org/
 - https://roundcube.net/
 - https://www.mailpile.is/
-- - http://www.gnu.org/software/mailman/index.html
+- http://www.gnu.org/software/mailman/index.html
+
+### Web Browsing
+- https://www.brave.com/
 
 ### Text Editors / IDEs
 - https://atom.io/
+- https://github.com/Microsoft/vscode
 - http://brackets.io/
 - https://notepad-plus-plus.org/
 - http://komodoide.com/komodo-edit/
@@ -52,6 +56,7 @@
 
 ### Office Suite
 - https://www.libreoffice.org/
+- https://open365.io/
 - https://www.calligra.org/get-calligra/
 - http://onlyoffice.org/
 - http://www.fengoffice.com/web/opensource/
