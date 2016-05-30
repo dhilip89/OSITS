@@ -34,6 +34,7 @@
 - http://line.me/en-US/
 - https://jitsi.org/
 - http://www.pidgin.im/
+- https://ring.cx/
 
 ### Email
 - https://nylas.com/N1
