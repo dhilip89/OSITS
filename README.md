@@ -35,6 +35,7 @@
 - https://jitsi.org/
 - http://www.pidgin.im/
 - https://ring.cx/
+- https://xmpp.org/
 
 ### Email
 - https://nylas.com/N1
