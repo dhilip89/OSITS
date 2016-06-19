@@ -114,6 +114,12 @@
 - http://www.otrs.com/software/open-source/
 - https://bestpractical.com/rt-and-rtir
 
+### Live Chat
+- https://livehelperchat.com/
+- https://www.livezilla.net/home/en/
+- https://www.simplechat.support/
+- http://helpcenterlive.com/
+
 ### Service Monitoring / Logging
 - http://www.spiceworks.com/free-network-monitoring-management-software/
 - https://www.consul.io/
