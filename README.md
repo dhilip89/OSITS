@@ -82,6 +82,7 @@
 - http://webzash.org/
 - http://homebank.free.fr/
 - https://www.waveapps.com/pricing/
+- https://zipbooks.com/
 
 ### Document Storage
 - https://www.alfresco.com/why-alfresco
