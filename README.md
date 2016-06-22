@@ -185,6 +185,7 @@
 - https://arkos.io/
 
 ### Project/Task Management
+- https://trello.com/
 - https://taiga.io/
 - https://wekan.io/
 - http://kanboard.net/
@@ -198,6 +199,11 @@
 - https://community.mycollab.com/
 - http://restya.com/board/
 - http://www.libreplan.com/home/
+- https://redmine.org/
+- https://archmule.com/
+- https://hive.com/
+- https://freedcamp.com/
+- https://www.drupal.org/project/openatrium
 
 ### Password Management
 - https://www.vaultier.org/
