@@ -179,6 +179,14 @@
 ### Web Servers
 - https://www.nginx.com/
 - https://httpd.apache.org/
+- http://serverless.com/
+- https://github.com/joewalnes/websocketd
+- https://github.com/youtube/vitess
+- https://github.com/phusion/passenger
+- https://github.com/cesanta/mongoose
+- https://github.com/h2o/h2o
+- https://caddyserver.com/
+- https://github.com/h5bp/server-configs
 
 ### Web Hosting
 - http://ajenti.org/
