@@ -90,6 +90,12 @@
 - http://www.openkm.com/en/community.html
 - https://github.com/humhub/humhub
 
+### Diagrams / Org Charts
+- http://www.organimi.com/pricing
+- http://www.jointjs.com/
+- https://www.gliffy.com/uses/org-chart-software/
+- https://www.draw.io/
+
 ### Wiki
 - https://github.com/Jermolene/TiddlyWiki5
 - https://github.com/splitbrain/dokuwiki
