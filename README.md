@@ -37,13 +37,18 @@
 - https://ring.cx/
 - https://xmpp.org/
 
-### Email
+### Email Clients
 - https://nylas.com/N1
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
+- http://www.gnu.org/software/mailman/index.html
+
+### Webmail
 - https://roundcube.net/
 - https://www.mailpile.is/
-- http://www.gnu.org/software/mailman/index.html
+- http://www.rainloop.net/
+- http://www.afterlogic.org/webmail-lite
+- https://github.com/nylas/sync-engine
 
 ### Web Browsing
 - https://www.brave.com/
