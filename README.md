@@ -97,6 +97,11 @@
 - https://www.casebox.org/
 - http://www.openkm.com/
 
+### Note Storage Management
+- https://simplenote.com/
+- https://laverna.cc/
+- http://paperwork.rocks/
+
 ### Diagrams / Org Charts
 - http://www.organimi.com/pricing
 - http://www.jointjs.com/
