@@ -138,6 +138,7 @@
 - https://www.livezilla.net/home/en/
 - https://www.simplechat.support/
 - http://helpcenterlive.com/
+- https://rocket.chat/
 
 ### Service Monitoring / Logging
 - http://www.spiceworks.com/free-network-monitoring-management-software/
