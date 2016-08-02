@@ -67,9 +67,12 @@
 - https://www.calligra.org/get-calligra/
 - http://onlyoffice.org/
 - http://www.fengoffice.com/web/opensource/
+- https://owncloud.org/features/
 
 ### Collaborative Editing
 - http://etherpad.org/
+- https://firepad.io
+- https://owncloud.org/features/
 
 ### Graphics Editing
 - https://www.gimp.org/
