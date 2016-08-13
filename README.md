@@ -251,25 +251,8 @@
 - https://portswigger.net/burp/
 - https://swiperproxy.github.io/
 
-### DevOps
-- Configuration Management
-  - https://www.chef.io/chef/
-  - https://puppetlabs.com/
-  - https://www.ansible.com/
-  - http://saltstack.com/
-  - http://theforeman.org/
-- Scripted Virtualization
-  - https://www.vagrantup.com/
-  - https://www.terraform.io/
-
-### Continuous Integration
-- https://github.com/drone/drone
-- https://github.com/Strider-CD/strider
-- https://github.com/buildbot/buildbot
-- https://about.gitlab.com/gitlab-ci/
-- https://github.com/jenkinsci/jenkins
-- https://travis-ci.org/
-- https://github.com/gocd/gocd/
+### DevOps / Continuous Integration
+- https://github.com/Nezteb/DevOps_Stuff
 
 ## OTHER LINK AGGREGATES
 - https://github.com/kahun/awesome-sysadmin
