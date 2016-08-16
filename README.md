@@ -99,6 +99,7 @@
 - https://github.com/humhub/humhub
 - https://www.casebox.org/
 - http://www.openkm.com/
+- https://www.atlassian.com/software/confluence
 
 ### Note Storage Management
 - https://simplenote.com/
@@ -131,11 +132,12 @@
 - http://www.linux-kvm.org/page/Main_Page
 - http://www.xenproject.org/
 
-### Ticketing
+### Ticketing / Helpdesk
 - http://osticket.com/
 - http://www.spiceworks.com/free-help-desk-software/
 - http://www.otrs.com/software/open-source/
 - https://bestpractical.com/rt-and-rtir
+- https://www.atlassian.com/software/jira/service-desk
 
 ### Live Chat
 - https://livehelperchat.com/
@@ -235,6 +237,7 @@
 - https://hive.com/
 - https://freedcamp.com/
 - https://www.drupal.org/project/openatrium
+- https://www.atlassian.com/software/jira
 
 ### Password Management
 - https://www.vaultier.org/
