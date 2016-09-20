@@ -156,11 +156,11 @@
 - https://www.paessler.com/prtg
 - https://www.elastic.co/products (ELK)
 - https://www.graylog.org/
+- https://graphiteapp.org/
 - https://github.com/getsentry/sentry
 - https://github.com/winstonjs/winston
 - https://github.com/Seldaek/monolog
 - https://github.com/arachnys/cabot
-- https://github.com/graphite-project/graphite-web
 - https://github.com/elastic/beats
 - https://github.com/prometheus/prometheus
 
