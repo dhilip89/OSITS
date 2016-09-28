@@ -239,6 +239,14 @@
 - https://www.drupal.org/project/openatrium
 - https://www.atlassian.com/software/jira
 
+### Business Process Management
+- http://activiti.org/
+- http://www.processmaker.com/community-2
+- http://www.bonitasoft.com/products#versions-community
+- https://camunda.org/
+- https://www.modelio.org/
+- http://www.sydle.com/en/bpm/
+
 ### Password Management
 - https://www.vaultier.org/
 - https://www.vaultproject.io
