@@ -209,7 +209,10 @@
 
 ### Web Hosting
 - http://ajenti.org/
+- https://serverpilot.io/pricing
+- http://froxlor.org/
 - https://github.com/webmin/webmin
+- https://vestacp.com/
 - https://www.virtualmin.com/
 - https://github.com/serghey-rodin/vesta
 - https://serverpilot.io/
