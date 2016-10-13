@@ -186,6 +186,8 @@
 ### Asset/Inventory Management
 - http://www.spiceworks.com/free-pc-network-inventory-software/
 - http://www.cmdbuild.org/en/prodotti/cmdbuild
+- http://www.whitesourcesoftware.com/
+- https://snipeitapp.com/
 
 ### Phone Systems
 - https://www.freepbx.org/
