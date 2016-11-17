@@ -145,6 +145,10 @@
 - https://www.simplechat.support/
 - http://helpcenterlive.com/
 - https://rocket.chat/
+- https://www.intercom.com/
+
+### SMS / Texting / 2FA
+- https://www.twilio.com/
 
 ### Service Monitoring / Logging
 - http://www.spiceworks.com/free-network-monitoring-management-software/
