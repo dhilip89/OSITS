@@ -119,9 +119,7 @@
 - https://github.com/gollum/gollum
 
 ### CMSs
-- https://bolt.cm/
-- https://getgrav.org/
-- http://www.django-cms.org/en/
+- https://github.com/Nezteb/CMS_Stuff/
 
 ### File Sharing / Syncing:
 - https://syncthing.net/
