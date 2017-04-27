@@ -103,7 +103,17 @@
 
 ### Backup /  File Sharing / Syncing
 - http://www.snebu.com/
+- https://bup.github.io/
+- https://backup.github.io/backup/v4/
 - https://www.urbackup.org/
+- https://borgbackup.readthedocs.io/en/stable/
+- http://www.amanda.org/
+- https://www.bareos.org/en/#
+- http://blog.bacula.org/
+- http://synchronicity.sourceforge.net/
+- https://www.duplicati.com/
+- https://www.seafile.com/en/product/private_server/
+- https://fogproject.org/
 - https://restic.github.io/
 - http://rsnapshot.org/
 - https://syncthing.net/
