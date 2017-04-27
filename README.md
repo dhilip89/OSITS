@@ -101,6 +101,15 @@
 - http://www.openkm.com/
 - https://www.atlassian.com/software/confluence
 
+### Backup /  File Sharing / Syncing
+- http://www.snebu.com/
+- https://www.urbackup.org/
+- https://restic.github.io/
+- http://rsnapshot.org/
+- https://syncthing.net/
+- https://linux.die.net/man/1/rsync
+- https://owncloud.org/
+
 ### Note Storage Management
 - https://simplenote.com/
 - https://laverna.cc/
@@ -120,10 +129,6 @@
 
 ### CMSs
 - https://github.com/Nezteb/CMS_Stuff/
-
-### File Sharing / Syncing:
-- https://syncthing.net/
-- https://owncloud.org/
 
 ### Virtualization
 - https://www.proxmox.com/en/
