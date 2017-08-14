@@ -38,7 +38,7 @@
 - https://xmpp.org/
 
 ### Email Clients
-- https://nylas.com/N1
+- https://www.nylas.com/nylas-mail/
 - https://www.mozilla.org/en-US/thunderbird/
 - http://www.claws-mail.org/
 - http://www.gnu.org/software/mailman/index.html
@@ -52,6 +52,7 @@
 
 ### Web Browsing
 - https://www.brave.com/
+- https://www.chromium.org/Home
 
 ### Text Editors / IDEs
 - https://atom.io/
@@ -79,6 +80,7 @@
 - https://inkscape.org/en/
 - https://vectr.com/
 - https://pixlr.com/
+- https://krita.org/en/
 
 ### Accounting
 - https://github.com/InvoicePlane/InvoicePlane
@@ -119,6 +121,7 @@
 - https://syncthing.net/
 - https://linux.die.net/man/1/rsync
 - https://owncloud.org/
+- https://pydio.com/
 
 ### Note Storage Management
 - https://simplenote.com/
@@ -136,6 +139,7 @@
 - https://github.com/splitbrain/dokuwiki
 - https://github.com/foswiki/distro
 - https://github.com/gollum/gollum
+- https://moinmo.in/
 
 ### CMSs
 - https://github.com/Nezteb/CMS_Stuff/
@@ -162,6 +166,7 @@
 
 ### SMS / Texting / 2FA
 - https://www.twilio.com/
+- https://www.linotp.org/
 
 ### Service Monitoring / Logging
 - https://sensuapp.org/
@@ -184,6 +189,7 @@
 
 ### Routing/Networking
 - https://www.pfsense.org/
+- https://vyos.io/
 
 ### Storage
 - http://rockstor.com/ 
@@ -210,7 +216,7 @@
 ### Phone Systems
 - https://www.freepbx.org/
 - http://www.asterisk.org/
-- http://www.elastix.com/en/downloads/
+- https://www.3cx.com/free-pbx-edition/
 - https://github.com/kamailio/kamailio
 - https://github.com/OpenSIPS/opensips
 - http://www.linphone.org/
@@ -280,6 +286,7 @@
 ### VPN
 - https://www.softether.org/
 - https://github.com/apenwarr/sshuttle
+- https://openvpn.net/
 
 ### Proxies
 - http://www.squid-cache.org/
